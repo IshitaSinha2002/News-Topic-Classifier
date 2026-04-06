@@ -131,6 +131,3 @@ Output: Sports</p>
 <h2>Conclusion</h2>
 <p>This project demonstrates how machine learning and NLP techniques can be used to classify textual data into multiple categories. 
 It highlights the complete pipeline from preprocessing and feature extraction to model evaluation and prediction.</p>
-<p>
-Each record contains:
-</p>
