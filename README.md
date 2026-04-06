@@ -30,6 +30,7 @@ The goal is to automatically categorize news content into topics such as World, 
   <li>3 - Business</li>
   <li>4 - Science/Technology</li>
 </ul>
+<p>Dataset Link: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset</p>
 
 <h2>Tech Stack</h2>
 <ul>
@@ -97,13 +98,13 @@ The goal is to automatically categorize news content into topics such as World, 
 <h2>Visualizations</h2>
 <h3>Category Distribution</h3>
 <p>Shows how data is distributed across different news categories.</p>
-<img src="images/distribution.png" width="600">
+<img src="https://github.com/IshitaSinha2002/News-Topic-Classifier/blob/main/Confusion%20Matrix.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Confusion Matrix</h3>
 <p>Displays actual versus predicted classifications.</p>
-<img src="images/confusion_matrix.png" width="600">
+<img src="https://github.com/IshitaSinha2002/News-Topic-Classifier/blob/main/News%20Topic%20Dist.png" width: 500px; height: 400px; object-fit: cover;>
 <h3>Text Length Distribution</h3>
 <p>Shows variation in the length of news articles.</p>
-<img src="images/text_length.png" width="600">
+<img src="https://github.com/IshitaSinha2002/News-Topic-Classifier/blob/main/Text%20Len%20Dist.png" width: 500px; height: 400px; object-fit: cover;>
 
 <h2>Key Insights</h2>
 <ul>
@@ -124,7 +125,8 @@ The goal is to automatically categorize news content into topics such as World, 
 </ul>
 
 <h3>Sample Input and Output</h3>
-<p>The following example demonstrates how the model classifies user input into a news category:</p>
+<p>Input: Team wins championship after thrilling final match <br>
+Output: Sports</p>
 
 <h2>Conclusion</h2>
 <p>This project demonstrates how machine learning and NLP techniques can be used to classify textual data into multiple categories. 
